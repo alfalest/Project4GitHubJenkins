@@ -1,6 +1,3 @@
-package Triangle;
-
-import static Triangle.LuasKeliling.a;
 import java.util.Scanner;
 public class Triangle {
     static int aL, tL, aK, tK, sK, L, K, luas, keliling;
